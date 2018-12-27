@@ -4,6 +4,6 @@ I did not get into a section of a course that I wanted to be in so I wrote this 
 
 # TODO
 
-Error Handling
-Database
-Text message notificaiton
+*Error Handling
+*Database for data like professor, term and subject ids
+*Text message notificaiton
